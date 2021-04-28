@@ -1,0 +1,45 @@
+<?php
+return[
+    // show
+    'title'=>'Yemeni',
+    'title_2'=>'Bon',
+    'title_3'=>'Prjects  ',
+    'link_title_2'=>'Show All Projects  ',
+    'add_new_btn'=>'Add new project  ',
+    'Id'=>'ID',
+    'name'=>'Category Name',
+    'title_index'=>'Title',
+    'desc'=>'Description',
+    'ldesc'=>'Long Description',
+    'title_index_ar'=>'Title(ar)',
+    'desc_ar'=>'Description(ar)',
+    'ldesc_ar'=>'Long Description(ar)',
+    'img'=>'Logo',
+    'multi_img'=>'Images',
+    'owner'=>'Owner',
+    'owner_ar'=>'Owner(ar)',
+    'addr'=>'Address',
+    'addr_ar'=>'Address(ar)',
+    'phon'=>'Phone',
+    'emai'=>'Email',
+    'web'=>'Website',
+    'face_url'=>'Facebook',
+    'twit_url'=>'Twitter',
+    'insta_url'=>'Instagram',
+    'shift'=>'Shift-Hours',
+    'Action'=>'Action',
+    'edit_bt'=>'Edit',
+    'delete_btn'=>'Delete',
+// add 
+'link_title_2_add'=>'Add Project ',
+'add_btn'=>'Add Project',
+'logo_add'=>'Add Logo',
+'img_add'=>'Add Multiple Images',
+
+// edit
+'link_title_2_edit'=>'Edit Project ',
+'edit_btn'=>'Edit Project',
+'logo_edit'=>'Edit Logo',
+'img_edit'=>'Edit Multiple Images',
+]
+?>
